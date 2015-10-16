@@ -1,0 +1,1 @@
+cp .gitignore_global ~/.gitignore_global
